@@ -618,7 +618,7 @@ if __name__ == "__main__":
         else:
             print("No feasible sample found in simulated annealing run.")
 
-    # 2) Uncomment this once you have Leap QPU access.
+    # 2) Uncomment this for QPU run.
     # results, best = solve_both_cases_qpu(
     #     num_reads=200,
     #     interaction_distance_cutoff=3,  # start sparse; increase later if embedding succeeds
