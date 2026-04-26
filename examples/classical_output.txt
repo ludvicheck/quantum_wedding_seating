@@ -1,0 +1,52 @@
+Solver objective value: 1822.0
+
+Top side (seats 1..9, left -> right):
+  Seat  1: Max
+  Seat  2: Paolo
+  Seat  3: Natalie
+  Seat  4: Poli
+  Seat  5: Ludvajz
+  Seat  6: Majda
+  Seat  7: Honza
+  Seat  8: Ludek
+  Seat  9: Jana
+
+Bottom side (seats 10..18, left -> right):
+  Seat 10: Leny
+  Seat 11: Lea
+  Seat 12: Vladimir
+  Seat 13: Lena
+  Seat 14: Kemr
+  Seat 15: Kaja
+  Seat 16: Lily
+  Seat 17: Foggy
+  Seat 18: Martina
+
+Recomputed total score: 1822
+
+Top positive score contributions:
+    80: groom+bride middle bonus
+    50: groom+bride same-side adjacency bonus
+    45: pref Foggy - Lily: 5 * (10-d=9)
+    45: pref Jana - Ludek: 5 * (10-d=9)
+    45: pref Majda - Honza: 5 * (10-d=9)
+    45: pref Leny - Lea: 5 * (10-d=9)
+    45: pref Kemr - Kaja: 5 * (10-d=9)
+    45: pref Vladimir - Lena: 5 * (10-d=9)
+    45: pref Natalie - Paolo: 5 * (10-d=9)
+    45: pref Max - Martina: 5 * (10-d=9)
+    45: pref Ludvajz - Poli: 5 * (10-d=9)
+    40: pair distance-1 bonus: Foggy - Lily
+    40: pair distance-1 bonus: Kaja - Kemr
+    40: pair distance-1 bonus: Natalie - Paolo
+    40: pair distance-1 bonus: Lea - Leny
+    40: pair distance-1 bonus: Martina - Max
+    40: pair distance-1 bonus: Ludvajz - Poli
+    40: pair distance-1 bonus: Honza - Majda
+    40: pair distance-1 bonus: Jana - Ludek
+    40: pair distance-1 bonus: Lena - Vladimir
+    36: pref Jana - Leny: 4 * (10-d=9)
+    36: pref Majda - Ludvajz: 4 * (10-d=9)
+    36: pref Kemr - Ludvajz: 4 * (10-d=9)
+    36: pref Natalie - Poli: 4 * (10-d=9)
+    32: pref Jana - Honza: 4 * (10-d=8)
